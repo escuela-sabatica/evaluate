@@ -6,7 +6,7 @@
 
 <style scoped>
 .verse-box {
-  background: linear-gradient(rgba(37, 43, 67, 0.8), rgb(40, 46, 71)), url('./bg-cover.png');
+  background: linear-gradient(rgba(37, 43, 67, 0.8), rgb(40, 46, 71)), url("/bg-cover.png");
   background-size: cover;
   background-position: center;
   color: var(--gold-divine);
