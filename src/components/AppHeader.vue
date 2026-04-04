@@ -34,6 +34,7 @@ header p {
 }
 
 @media (max-width: 768px) {
+    header {height: 40vh;}
   header h1 { font-size: 2.2rem; }
 }
 </style>
