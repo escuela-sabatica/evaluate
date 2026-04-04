@@ -208,8 +208,12 @@ function restartQuiz() {
   margin: 30px auto;
   color: var(--primary-navy);
 }
-
 /* Transition Vue */
 .fade-enter-active { animation: fadeIn 0.5s; }
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+@media (max-width: 768px) {
+  .quiz-container{
+    padding: 30px 20px;
+  }
+}  
 </style>
