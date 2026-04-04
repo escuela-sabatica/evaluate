@@ -11,12 +11,12 @@ footer {
   color: white;
   padding: 40px 10%;
   text-align: center;
-  margin-top: 50px;
+  margin-top: auto;
 }
 
 footer .sub {
   font-size: 0.8rem;
   margin-top: 10px;
-  opacity: 0.7;
+  opacity: 0.8;
 }
 </style>
