@@ -7,7 +7,7 @@
 
 <style scoped>
 header {
-  background: linear-gradient(rgba(37, 43, 67, 0.8), rgba(40, 46, 71, 0.9)), url('./bg-cover.png');
+  background: linear-gradient(rgba(37, 43, 67, 0.8), rgba(40, 46, 71, 0.9)), url('/bg-cover.png');
   background-size: cover;
   background-position: center;
   height: 80vh;
