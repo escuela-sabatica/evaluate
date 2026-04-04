@@ -11,7 +11,6 @@ defineProps({
   text:  { type: String, required: true }
 })
 </script>
-
 <style scoped>
 .card {
   background: white;
@@ -21,11 +20,14 @@ defineProps({
   transition: transform 0.3s;
   border-left: 5px solid var(--gold-divine);
 }
-
 .card:hover { transform: translateY(-8px); }
-
 .card h3 {
   color: var(--primary-navy);
   margin-bottom: 16px;
 }
+@media (max-width: 768px) {
+  .card{
+    padding: 30px 20px;
+  }
+}    
 </style>
