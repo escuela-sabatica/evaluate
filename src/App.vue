@@ -59,20 +59,20 @@ import InfoCard     from './components/InfoCard.vue'
 import VerseBox     from './components/VerseBox.vue'
 import QuizSection  from './components/QuizSection.vue'
 </script>
-
 <style>
 .section-intro {
   text-align: center;
   max-width: 800px;
   margin: auto;
 }
-
 .section-white {
   background: #fff;
 }
-
 .verse-ref {
   font-size: 1rem;
   color: white;
 }
+@media (max-width: 768px) {
+ h2{font-size: 2rem;}
+}  
 </style>
