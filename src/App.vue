@@ -12,7 +12,7 @@
     <div class="grid">
       <InfoCard
         title="La Disonancia Cognitiva"
-        text="A menudo pensamos que somos ricos y autosuficientes, pero el Testigo Fiel nos revela que somos «infelices, miserables, pobres, ciegos y desnudos»."
+        text="A menudo pensamos que somos ricos y autosuficientes, pero el Testigo Fiel nos revela que somos [infelices, miserables, pobres, ciegos y desnudos]."
       />
       <InfoCard
         title="El Estado de Tibieza"
