@@ -18,4 +18,9 @@
   margin: 40px 0;
   box-shadow: 0 4px 17px rgba(0, 0, 0, 0.05);
 }
+@media (max-width: 768px) {
+  .verse-box{
+    padding: 20px;
+  }
+}  
 </style>
